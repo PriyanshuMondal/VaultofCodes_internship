@@ -1,6 +1,6 @@
 [
     {
-        "amount": 500.0,
+        "amount": 700.0,
         "category": "Food",
         "date": "2025-08-28"
     },
@@ -10,8 +10,13 @@
         "date": "2025-08-28"
     },
     {
-        "amount": 70.0,
+        "amount": 800.0,
+        "category": "Clothes",
+        "date": "2025-08-29"
+    },
+    {
+        "amount": 20.0,
         "category": "Transport",
-        "date": "2025-08-28"
+        "date": "2025-08-29"
     }
 ]
