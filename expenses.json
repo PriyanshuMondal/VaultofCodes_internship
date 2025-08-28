@@ -1,0 +1,17 @@
+[
+    {
+        "amount": 500.0,
+        "category": "Food",
+        "date": "2025-08-28"
+    },
+    {
+        "amount": 200.0,
+        "category": "Entertainment",
+        "date": "2025-08-28"
+    },
+    {
+        "amount": 70.0,
+        "category": "Transport",
+        "date": "2025-08-28"
+    }
+]
